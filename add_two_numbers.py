@@ -4,6 +4,8 @@ class Main:
 
         return A+B
 
+    def subTwoNum(self,A,B):
+        return A-B
 
     if __name__=='__main__':
         obj = Main()
